@@ -24,7 +24,7 @@ jobs:
 
       - name: Fetch changed files
         id: pr_files
-        uses: jitterbit/get-changed-files@v1
+        uses: tj-actions/changed-files@v35
         with:
           format: "space-delimited"
 
