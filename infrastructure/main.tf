@@ -14,3 +14,4 @@ resource "azurerm_storage_account" "path0053" {
   account_tier             = "Standard"
   account_replication_type = "LRS"
 }
+fixed error
