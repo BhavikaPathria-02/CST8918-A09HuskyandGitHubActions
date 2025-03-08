@@ -13,4 +13,5 @@ resource "azurerm_storage_account" "path0053" {
   location                 = azurerm_resource_group.path0053.location
   account_tier             = "Standard"
   account_replication_type = "LRS"
-Errotr
+}
+
