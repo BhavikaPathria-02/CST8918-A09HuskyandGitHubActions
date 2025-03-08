@@ -1,0 +1,25 @@
+{
+  "name": "cst8918-a09huskyandgithubactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhavikaPathria-02/CST8918-A09HuskyandGitHubActions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BhavikaPathria-02/CST8918-A09HuskyandGitHubActions/issues"
+  },
+  "homepage": "https://github.com/BhavikaPathria-02/CST8918-A09HuskyandGitHubActions#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^9.1.7"
+  }
+}
