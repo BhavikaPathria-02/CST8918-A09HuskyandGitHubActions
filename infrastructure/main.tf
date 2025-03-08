@@ -15,3 +15,5 @@ resource "azurerm_storage_account" "path0053" {
   account_replication_type = "LRS"
 }
 
+
+
